@@ -1,0 +1,107 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Bikini Bottom Tour Guide</string>
+
+    <!-- Category landmarks -->
+    <string name="category_landmarks">LANDMARKS</string>
+
+    <!-- Category name for landmarks -->
+    <string name="landmarks_jellyfish_fields">Jellyfish Fields</string>
+    <string name="landmarks_kelp_forest">Kelp Forest</string>
+    <string name="landmarks_goo_lagoon">Goo Lagoon</string>
+    <string name="landmarks_sand_mountain">Sand Mountain</string>
+    <string name="landmarks_industrial_park">Industrial Park</string>
+    <string name="landmarks_sulfur_fields">Sulfur Fields</string>
+    <string name="landmarks_mermalair">Mermalair</string>
+    <string name="landmarks_makeout_reef">Make-Out Reef</string>
+    <string name="landmarks_brain_coral_fields">Brain Coral Fields</string>
+    <string name="landmarks_sea_needle">Sea Needle</string>
+
+    <!-- Category description for landmarks -->
+    <string name="desc_landmarks_jellyfish_fields">Miles of open fields and rock formations, where millions of jellyfish live. It is also a popular place for jellyfishing.</string>
+    <string name="desc_landmarks_kelp_forest">A forest on the outskirts of Bikini Bottom. Instead of trees there are giant clumps of kelp trees all held together to form a spooky forest. Inside, it includes a camping area.</string>
+    <string name="desc_landmarks_goo_lagoon">A brine pool that the residents of Bikini Bottom use as an underwater beach. Goo Lagoon contains sea caves, a pier amusement park, and other attractions.</string>
+    <string name="desc_landmarks_sand_mountain">Several large mountains that are a popular underwater ski resort. The main mountains are Guppy Mound, Flounder Hill, and Sand Mountain.</string>
+    <string name="desc_landmarks_industrial_park">A large area for manufacturing that contains green slime from the industrial waste.</string>
+    <string name="desc_landmarks_sulfur_fields">Field of dark grayish-blue colored undersea volcanic vents that shoot out sulfur, the sky is tinted an orange color due to this.</string>
+    <string name="desc_landmarks_mermalair">Mermaid Man and Barnacle Boy secret hideout hidden in the basement of the Shady Shoals Retirement Home. Mermaid Man stores the Invisible Boat-Mobile here.</string>
+    <string name="desc_landmarks_makeout_reef">Where couples go to make out in their cars and/or have a picnic. It is located high on a cliff ridge just outside of Bikini Bottom. It is located on Coral Cliffs, behind Mt. Climb-Up-And-Fall-Off.</string>
+    <string name="desc_landmarks_brain_coral_fields">Patches of land filled with Brain Coral located near Jellyfish Fields.</string>
+    <string name="desc_landmarks_sea_needle">the tallest free-standing structure and observation tower in Bikini Bottom. It is the Bikini Bottom equivalent of the Space Needle. It is also one of the most popular tourist attractions, as the observation deck has a great view of Bikini Bottom as seen in the Battle for Bikini Bottom video game.</string>
+
+    <!-- Category stores -->
+    <string name="category_stores">STORES</string>
+
+    <!-- Category name for stores -->
+    <string name="stores_barg_n_mart">Barg N Mart</string>
+    <string name="stores_bikini_bottom_supermarket">Bikini Bottom Supermarket</string>
+    <string name="stores_bikini_bottom_mall">Bikini Bottom Mall</string>
+    <string name="stores_palace_of_pranks">Palace of Pranks</string>
+    <string name="stores_hats">Hats</string>
+    <string name="stores_magic_shop">Magic Shop</string>
+    <string name="stores_near_mint_comic_books">Near Mint Comic Books</string>
+    <string name="stores_guppies_r_us">Guppies R Us</string>
+    <string name="stores_perfume_shoppe">Perfume Shoppe</string>
+
+    <!-- Category description for stores -->
+    <string name="desc_stores_bargnmart">Barg N Mart is one of the main supermarkets in Bikini Bottom.</string>
+    <string name="desc_stores_bikinibottom_supermarket">The Bikini Bottom Supermarket is a shop in Bikini Bottom which has a huge red building.</string>
+    <string name="desc_stores_bikini_bottom_mall">A four-story mall in the shape of a ship.</string>
+    <string name="desc_stores_palace_of_pranks">A Novelty Shop and Prank Store that sells pranks, gags, and gross-out toys.</string>
+    <string name="desc_stores_hats">A hat shop which shaped like a pink bomb and has a large sign that reads its name in red letters.</string>
+    <string name="desc_stores_magic_shop">A store that specializes in magic.</string>
+    <string name="desc_stores_near_mint_comic_books">A comic book store in Bikini Bottom.</string>
+    <string name="desc_stores_guppies_r_us">A store that sells baby clothes.</string>
+    <string name="desc_stores_perfume_shoppe">A store that sells perfumes.</string>
+
+    <!-- Category restaurants -->
+    <string name="category_restaurants">RESTAURANTS</string>
+
+    <!-- Category name for restaurants -->
+    <string name="restaurants_krusty_krab">Krusty Krab</string>
+    <string name="restaurants_chum_bucket">Chum Bucket</string>
+    <string name="restaurants_diner">Diner</string>
+    <string name="restaurants_fancy">Fancy!</string>
+    <string name="restaurants_goofy_goobers_ice_cream_party_boat">Goofy Goobers Ice Cream Party Boat</string>
+    <string name="restaurants_the_salty_spitoon">The Salty Spitoon</string>
+    <string name="restaurants_winnie_hut_jr">Weenie Hut Jr</string>
+
+    <!-- Category description for restaurants -->
+    <string name="desc_restaurants_krusty_krab">Most successful restaurant located downtown. It is owned by Eugene H. Krabs. The meal most customers order is a Krabby Patty.</string>
+    <string name="desc_restaurants_chum_bucket">A fast food restaurant owned by Sheldon Plankton and Karen Plankton, the restaurant is a major competitor of the Krusty Krab. The Chum Bucket is shaped like a big gray metal bucket, the handle held up by a grayish blue gloved hand.</string>
+    <string name="desc_restaurants_diner">A small boat made into a diner with neon lights on the side displaying DINER and a jukebox in it.</string>
+    <string name="desc_restaurants_fancy"> A fancy restaurant where dates take place and entrepreneurs eat.</string>
+    <string name="desc_restaurants_goofy_goobers_ice_cream_party_boat">An ice cream parlor that features a seating area with a stage, and a Nut Bar. Mascot is "Goofy Goober", a peanut. Products sold are Goober meals (with a toy) and Triple Gooberberry Sunrises.</string>
+    <string name="desc_restaurants_the_salty_spitoon">A restaurant/bar for tough fish. It is believed to be stricter and tougher than other sailor clubs, and only the toughest of creatures are granted entrance.</string>
+    <string name="desc_restaurants_winnie_hut_jr">A restaurant where "weenies" hang out. There is a robot waiter who serves soda and hot dogs.</string>
+
+    <!-- Category museums -->
+    <string name="category_museums">MUSEUMS</string>
+
+    <!-- Category name for museums -->
+    <string name="museums_fry_cook_museum">Fry Cook Museum</string>
+    <string name="museums_hook_museum">Hook Museum</string>
+    <string name="museums_bikini_bottom_museum">Bikini Bottom Museum</string>
+    <string name="museums_bikini_bottom_boat_museum">Bikini Bottom Boat Museum</string>
+
+    <!-- Category description for museums -->
+    <string name="desc_museums_fry_cook_museum">FThe Fry Cook Museum is where people can look at fry-cook-related items, including the Golden Spatula, which many people have tried to take out of rock hard ancient grease.</string>
+    <string name="desc_museums_hook_museum">It is a museum entirely dedicated to hooks.</string>
+    <string name="desc_museums_bikini_bottom_museum">The building resembles a Viking ship. Inside, it contains ancient artifacts and other relics, such as formerly the Atlantean amulet.</string>
+    <string name="desc_museums_bikini_bottom_boat_museum">A boat museum in Bikini Bottom.</string>
+
+</resources>
